@@ -1,0 +1,195 @@
+/* Overrule all */
+
+body{
+	font-family: Century Gothic !important;
+}
+
+/* ------------ */
+
+#respond{
+	display: none;
+}
+
+#footer-right-content{
+	display: none !important;
+}
+
+.wpcf7-submit{
+	border-style: solid !important;
+}
+
+.ueberblick{
+	padding-left: 5%;
+}
+
+a{
+	font-family: Century Gothic;
+}
+
+blockquote{
+	font-style: italic;
+	font-size: 1.08rem;
+	background-color: #dbf6ef;
+	font-family: Century Gothic;
+}
+
+h1{
+	color: #00b5df;
+}
+
+h2{
+	color: #00b5df;
+}
+
+
+h3{
+	color: #00b5df;
+}
+
+h4{
+	color: #00b5df;
+}
+
+.beispiel{
+  background-color: #E8E8E8;
+}
+
+/* Individual page stylings */
+
+/* Uebersicht */
+.page-id-2 h1, .page-id-2 h2,
+.page-id-2 h3, .page-id-2 h4{
+	color: black;
+}
+
+/* Skriptum */
+.page-id-71 h1, .page-id-71 h2,
+.page-id-71 h3, .page-id-71 h4{
+	color: black;
+}
+
+/* Feedback */
+.page-id-15 h1, .page-id-15 h2,
+.page-id-15 h3, .page-id-15 h4{
+	color: black;
+}
+
+/* Impressum */
+.page-id-348 h1, .page-id-348,
+.page-id-348 h3, .page-id-348{
+	color: black;
+}
+
+/* Chapter 1 */
+.page-id-77 h1, .page-id-77 h2,
+.page-id-77 h3, .page-id-77 h4{
+	color: #00b5e3;
+}
+
+.page-id-77 blockquote, .page-id-77 .ueberblick{
+	background-color: #C5F3FF;
+}
+
+/* Chapter 2 */
+.page-id-140 h1, .page-id-140 h2,
+.page-id-140 h3, .page-id-140 h4{
+	color: #551A8B;
+}
+
+.page-id-140 blockquote, .page-id-140 .ueberblick{
+	background-color: #E5DBF6;
+}
+
+/* Chapter 3 */
+.page-id-176 h1, .page-id-176 h2,
+.page-id-176 h3, .page-id-176 h4{
+	color: #4eb230;
+}
+
+.page-id-176 blockquote, .page-id-176 .ueberblick{
+	background-color: #DCF3D5;
+}
+
+/* Chapter 4 */
+.page-id-200 h1, .page-id-200 h2,
+.page-id-200 h3, .page-id-200 h4{
+	color: #f02945;
+}
+
+.page-id-200 blockquote, .page-id-200 .ueberblick{
+	background-color: #FDD3D9;
+}
+
+/* Chapter 5 */
+.page-id-224 h1, .page-id-224 h2,
+.page-id-224 h3, .page-id-224 h4{
+	color: #5f8885;
+}
+
+.page-id-224 blockquote, .page-id-224 .ueberblick{
+	background-color: #D2E0DF;
+}
+
+/* Chapter 6 */
+.page-id-240 h1, .page-id-240 h2,
+.page-id-240 h3, .page-id-240 h4{
+	color: #0f4781;
+}
+
+.page-id-240 blockquote, .page-id-240 .ueberblick{
+	background-color: #CFE4F9;
+}
+
+/* Chapter 7 */
+.page-id-269 h1, .page-id-269 h2,
+.page-id-269 h3, .page-id-269 h4{
+	color: #bd6f27;
+}
+
+.page-id-269 blockquote, .page-id-269 .ueberblick{
+	background-color: #F5E1CF;
+}
+
+/* Chapter 8 */
+.page-id-301 h1, .page-id-301 h2,
+.page-id-301 h3, .page-id-301 h4{
+	color: #E2AC00;
+}
+
+.page-id-301 blockquote, .page-id-301 .ueberblick{
+	background-color: #FFF0C1;
+}
+
+/* HOVER */
+
+.eins a:hover, #menu-item-117 a:hover{
+	color: #00b5e3;
+}
+
+.zwei a:hover, #menu-item-169 a:hover{
+	color: #551A8B;
+}
+
+.drei a:hover, #menu-item-196 a:hover{
+	color: #4eb230;
+}
+
+.vier a:hover, #menu-item-222 a:hover{
+	color: #f02945;
+}
+
+.fuenf a:hover, #menu-item-239 a:hover{
+	color: #5f8885;
+}
+
+.sechs a:hover, #menu-item-267 a:hover{
+	color: #0f4781;
+}
+
+.sieben a:hover, #menu-item-294 a:hover{
+	color: #bd6f27;
+}
+
+.acht a:hover, #menu-item-323 a:hover{
+	color: #E2AC00;
+}
